@@ -4,7 +4,6 @@ spring:
   mvc:
     async:
       request-timeout: 300
-#
 #  zipkin:
 #    enabled: true
 #    service.name: zipkin-service
